@@ -1,3 +1,4 @@
+package cs2s03;
 
 public interface MyStack {
 	  public char top() throws EmptyContainerException;

@@ -1,3 +1,4 @@
+package cs2s03;
 
 public interface MyPriorityQueue {
 	  public char next() throws EmptyContainerException; // highest priority

@@ -1,3 +1,4 @@
+package cs2s03;
 
 public interface MyQueue {
 	  public char peek() throws EmptyContainerException; // front 
